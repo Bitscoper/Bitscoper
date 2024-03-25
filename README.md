@@ -67,7 +67,7 @@
       </th>
       <td>
         A Flutter project consisting of TCP Port Scanner, Route Tracer, File
-        Hash Calculator, and Series URI Crawler.
+        Hash Calculator, Series URI Crawler, and WHOIS Retriever.
       </td>
       <td align="center">Dart</td>
       <td align="center">Flutter</td>
